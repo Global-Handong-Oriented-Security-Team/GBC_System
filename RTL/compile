@@ -1,0 +1,1 @@
+gcc -m32 -mpreferred-stack-boundary=2 -fno-stack-protector -no-pie -fno-pic -o rtl rtl.c
